@@ -14,3 +14,7 @@ langchain_community.document_loaders import PyPDFLoader
 langchain_community.vectorstores import Chroma  
 langchain.memory import ConversationBufferMemory  
 langchain.chains  
+
+
+  <img width="1899" height="811" alt="image" src="https://github.com/user-attachments/assets/5f329b74-352a-4806-b9ce-934463ab0334" />
+
