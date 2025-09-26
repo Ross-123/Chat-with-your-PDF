@@ -1,8 +1,12 @@
 # Chat-with-your-PDF
-This app lets you upload any pdf document and chat with it. You can ask questions in natural language and dets answers bsed on the uploaded pdf document.
+This app lets you upload any pdf document and chat with it. You can ask questions in natural language and gets answers bsed on the uploaded pdf document.  
+
+LangGraph-driven RAG workflow with graph reasoning
+
+Neo4j for persistent chunk/relationship storage and graph visualization
 
   App is build using :
-      shutil
+shutil
 tempfile
 istreamlit as st  
 dotenv import load_dotenv  
